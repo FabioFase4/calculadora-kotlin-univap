@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculadora, de Fábio e Guilherme</string>
+    <string name="msg_erro_divisao">Erro: Divisão por zero</string>
+</resources>
