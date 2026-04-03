@@ -14,5 +14,9 @@ Markdown
 - IDE: Android Studio
 - Componentes: TextView, Button, ConstraintLayout.
 
+# Autores:
+- Fábio Silva de Lima
+- Luís Otávio Miranda
+
 ---
 Focado em ingressar no ITA - Instituto Tecnológico de Aeronáutica.*
