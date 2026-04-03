@@ -1,4 +1,7 @@
 # Calculadora Funcional 🐤
+# Autores:
+- Fábio Silva de Lima
+- Guilherme Henrique Gonzales Nascimento Barreto
 
 # Recursos Usados :accessibility:
 - Linguagem Kotlin
