@@ -1,7 +1,7 @@
 Markdown
 # Calculadora Android (Kotlin)
-
-Projeto desenvolvido para a disciplina de Programação no curso de Informática da **UNIVAP**.
+- Orientado por: Bruno Michel Pêra
+- Projeto desenvolvido para a disciplina de Programação para Dispositivos Móveis no curso de Informática da **UNIVAP**.
 
 ## 🚀 Funcionalidades
 - Operações matemáticas básicas (+, -, *, /).
